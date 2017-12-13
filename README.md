@@ -20,6 +20,7 @@
 [Google](https://www.google.jp)
 ![画像](https://www.google.jpg)
 
-|aa|bb|cc
+|aa|bb|cc|
+|:--:||:--:||:--:|
 |sss|sssss|rrr|
 |rette|rr|rr|
